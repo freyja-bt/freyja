@@ -73,4 +73,4 @@ highlight_name: true
 
 Freyja Brandel-Tanis is a Master's student at Georgia Tech studying City and Regional Planning and Civil Engineering. Currently, she's a graduate research assistant in Georgia Tech's (Friendly Cities Lab)[https://friendlycities.gatech.edu/] working on (COVID-19 Event Risk Vulnerability)[https://covid19risk.biosci.gatech.edu/].
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FreyjaBrandel-TanisResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
